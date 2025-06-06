@@ -46,9 +46,7 @@ export default function Page() {
     ])
   }
 
-  console.log("userId", user.id);
-  console.log("transactions:", transactions);
-  // console.log("summary:", summary);
+
 
 
  return (
